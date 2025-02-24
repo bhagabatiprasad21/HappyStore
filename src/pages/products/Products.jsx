@@ -1,8 +1,6 @@
+import "./Products.scss";
+const Products = () => {
+  return <div>Products</div>;
+};
 
-function Products() {
-  return (
-    <div>Products</div>
-  )
-}
-
-export default Products
+export default Products;
